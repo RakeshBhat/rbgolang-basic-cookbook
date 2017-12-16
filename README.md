@@ -1,5 +1,8 @@
 
-*Running Test*
+**Go cookbook**
+collection of examples with unit tests.
+
+**Running Test*
 
 _Run the below command from the package itself_
  
@@ -9,7 +12,7 @@ _Run the below command to get verbose  output_
  
  go test -v
 
-*Resource*
+**Resource*
 
 https://blog.alexellis.io/golang-writing-unit-tests/
 
